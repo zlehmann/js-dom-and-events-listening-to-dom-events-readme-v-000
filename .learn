@@ -1,6 +1,7 @@
 tags:
-  - javascript
+  - DOM
+  - events
+  - listening
 languages:
   - javascript
-resources:
-  - 1
+resources: 0
