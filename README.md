@@ -31,7 +31,7 @@ If you are using an standalone text editor such as Sublime or Atom, before we
 get started, follow [these instructions][instructions] to manually fork and
 clone the lesson repository on GitHub. In your forked and cloned copy, you'll
 find the `index.html` file, which you can then manually open up in the browser.
-(For instructions on opening HTML files in the browser from the Learn IDE,\ see
+(For instructions on opening HTML files in the browser from the Learn IDE, see
 [this Help Center article][help].)
 
 ## Demonstrate Listening to Events on a DOM Node with `addEventListener()`
