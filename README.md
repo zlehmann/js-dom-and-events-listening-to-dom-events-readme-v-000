@@ -25,9 +25,9 @@ This string is a temporary IP address that is hosting your `index.html` file.
 Copy this string of numbers, open a new tab and past the string in to the URL
 bar.
 
-#### Instructions for Students Using an Stand Alone Text-Editor
+#### Instructions for Students Using a Stand Alone Text-Editor
 
-If you are using an standalone text editor such as Sublime or Atom, before we
+If you are using a standalone text editor such as Sublime or Atom, before we
 get started, follow [these instructions][instructions] to manually fork and
 clone the lesson repository on GitHub. In your forked and cloned copy, you'll
 find the `index.html` file, which you can then manually open up in the browser.
